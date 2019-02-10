@@ -1,0 +1,7 @@
+Welcome to the RFID navigation system!
+You will now be guided accordingly.
+Please pay attention to the navigaton instructions.
+Press 1 to go to A
+Press 2 to go to B
+1: turn right, walk 10 steps.
+2: turn left, walk 15 steps.
